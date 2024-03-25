@@ -1,5 +1,5 @@
 
-### Rock Paper Scissors Detection using CNN and Computer Vision
+###### Rock Paper Scissors Detection using CNN and Computer Vision
 This project enables users to detect rock, paper, or scissors gestures using Convolutional Neural Networks (CNN) and computer vision techniques.
 
 ## Overview
